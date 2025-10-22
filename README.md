@@ -9,7 +9,7 @@ A tool that parasyte the discord updater tool to ensure each startup that Better
 - Start the Discord
 
 ## How to uninstall
-- Delete the `Discord` folder at `localappdata%`
+- Delete the `Discord` folder at `%localappdata%`
 
 ## Limitations
 - Once discord updates, it will start one time without better discord  
